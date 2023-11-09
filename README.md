@@ -56,8 +56,8 @@ This is currently used as testing and production server.
 
 <ul>
   <li>Handled using the GSON library</li>
-  <li>[ ] Implemenet RASP for added protection </li>
-  <li>[ ] Enhance Security Testion </li>
+  <li>[ ] Implement RASP for added protection </li>
+  <li>[ ] Enhance Security Testing </li>
 </ul>
 
 
