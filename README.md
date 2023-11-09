@@ -49,15 +49,15 @@ This is currently used as testing and production server.
 <ul>
   <li>Security "secret" reference is located in the application.conf file. Please note ktorKey the reference for "secret" must be added as an environmnet variable of your system inorder for server to work</li>
   <li>JWT structure and port info. is also in the applicaiton.conf file</li>
-  <li>[] Need to change the level logging for Simple Kotlin Mail Server</li>
+  <li>[ ] Need to change the level logging for Simple Kotlin Mail Server</li>
 </ul>
 
 <b>Serialization</b>
 
 <ul>
   <li>Handled using the GSON library</li>
-  <li>[] Implemenet RASP for added protection </li>
-  <li>[] Enhance Security Testion </li>
+  <li>[ ] Implemenet RASP for added protection </li>
+  <li>[ ] Enhance Security Testion </li>
 </ul>
 
 
